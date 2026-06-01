@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="channelid" tvg-logo="https://i.postimg.cc/DzXLc20k/Sports.png" group-title="Sports",চ্যানেলের নাম
-http://streaming-server.com/live/channel.m3u8
 
 #EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://i.postimg.cc/4yHbhNKP/Tsports.png" group-title="Sports", T Sports HD
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d3b6774fbd416803ca328adea837af88
