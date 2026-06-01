@@ -5,7 +5,7 @@ http://streaming-server.com/live/channel.m3u8
 #EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://i.postimg.cc/4yHbhNKP/Tsports.png" group-title="Sports", T Sports HD
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d3b6774fbd416803ca328adea837af88
 #EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://i.postimg.cc/4yHbhNKP/Tsports.png" group-title="Sports", T Sports HD
-http://streaming-server.com/live/channel.m3u8
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8?e=1780326681&token=17c59f0ba0140470f9a6d219bfbaa1d5&u=78be6644-0a65-48ec-81a4-089ac65a2619
 
 #EXTINF:-1 tvg-id="Willow HD" tvg-logo="https://i.postimg.cc/3N0CDJyB/Willow-by-cricbuzz.png" group-title="Sports", Willow HD
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8?e=1779178079&token=d71d71025ad8ed99266bb333137dc3e0&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a
