@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://i.postimg.cc/4yHbhNKP/Tsports.png" group-title="Sports", T Sports HD
-http://jatrapala.com:8083/TSportsHD/index.m3u8?token=28bbe404044f100f9020a79b9f6ba962551269b5-6e627044ce73c40f72d8fab7b40cc542-1780900611-1780889811
+http://jatrapala.com:8083/TSportsHD/index.m3u8?token=fca16c6cfa5fe16455f992740d29fb69fe9301b0-6b2124b1599e8de0473bcdb70ea22fdf-1781253278-1781242478
 #EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://i.postimg.cc/4yHbhNKP/Tsports.png" group-title="Sports", T Sports HD
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8?e=1780326681&token=17c59f0ba0140470f9a6d219bfbaa1d5&u=78be6644-0a65-48ec-81a4-089ac65a2619
 
