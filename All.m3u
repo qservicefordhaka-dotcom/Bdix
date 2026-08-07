@@ -5,7 +5,7 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://i.postimg.cc/4yHbhNKP/Tsports.png" group-title="Sports", T Sports HD
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Ptv Sports HD" tvg-logo="" group-title="Sports", Ptv Sports HD
+#EXTINF:-1 tvg-id="Ptv Sports HD" tvg-logo="https://i.postimg.cc/MpzyVNdX/Ptv_Sports.png" group-title="Sports", Ptv Sports HD
 https://cz-pli2.hridoytv-route.workers.dev/proxy/https://cdn10.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=5ZP1hVE7AuaeJHrUergz6Q&expires=1786080014
 
 #EXTINF:-1 tvg-id="Willow HD" tvg-logo="https://i.postimg.cc/3N0CDJyB/Willow-by-cricbuzz.png" group-title="Sports", Willow HD
