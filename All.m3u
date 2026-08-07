@@ -20,7 +20,8 @@ https://tvsen3.b-cdn.net/qUud8Nxs/tracks-v1a1/mono.ts.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="HD" tvg-logo="" group-title="", HD
+#EXTINF:-1 tvg-id="HD" tvg-logo="" group-title="Documentary", Animal Planet HD
+https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HD" tvg-logo="" group-title="", HD
 
